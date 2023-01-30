@@ -2,6 +2,6 @@
 
 ```mermaid
 erDiagram
-  AGENDA ||--o{ CONTACTE :
-  CONTACTE ||--o{ INFO :
+  AGENDA ||--o{ CONTACTE : te
+  CONTACTE ||--o{ INFO : te
 ```
